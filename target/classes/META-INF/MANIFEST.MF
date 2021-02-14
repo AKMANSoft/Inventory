@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Built-By: Mi6
+Build-Jdk: 14.0.1
+Class-Path: lib/darklaf-core-2.5.4.jar lib/darklaf-theme-2.5.4.jar lib/d
+ arklaf-property-loader-2.5.4.jar lib/darklaf-utils-2.5.4.jar lib/darkla
+ f-native-utils-2.5.4.jar lib/darklaf-platform-base-2.5.4.jar lib/darkla
+ f-windows-2.5.4.jar lib/jna-5.5.0.jar lib/darklaf-macos-2.5.4.jar lib/j
+ xlayer-3.0.4.jar lib/svgSalamander-1.1.2.3.jar lib/swingx-1.6.1.jar lib
+ /filters-2.0.235.jar lib/swing-worker-1.1.jar lib/sqlite-jdbc-3.34.0.ja
+ r lib/javax.activation-1.2.0.jar
+Main-Class: com.mi6.MainWindow
+Created-By: Maven Integration for Eclipse
+

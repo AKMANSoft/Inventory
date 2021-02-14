@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven 3.6.3
+Built-By: Mi6
+Build-Jdk: 14.0.1
+Specification-Title: inventory
+Specification-Version: 0.0
+Implementation-Title: inventory
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: com.mi6
+Implementation-URL: http://maven.apache.org
+Main-Class: com.mi6.inventory.MainWindow
+
